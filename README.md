@@ -60,3 +60,7 @@ rm -rf theclou-rp
 * ESC to undo while planing
 * F1 opens Save/Load/Quit Menu
 
+# Credits:
+* Original Game by: neo Software Produktions GmbH
+* Port by: [Vasco Alexandre da Silva Costa](https://sites.google.com/site/vascocosta/theclue)
+* Gamefiles provided by: [Clou! Open Source Project](https://sourceforge.net/projects/cosp/)
