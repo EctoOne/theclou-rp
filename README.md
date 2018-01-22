@@ -38,3 +38,9 @@ Cleanup:
 cd ~
 rm -rf derclou
 rm -rf theclou-rp
+
+# Controls:
+* Arrow Keys to move selection / Person while planing
+* Enter to select option
+* ESC to undo while planing
+* F1 opens Save/Load/Quit Menu
