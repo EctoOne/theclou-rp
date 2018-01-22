@@ -11,9 +11,11 @@ make
 
 Select Language:
 ---
+* English
 ```
 wget "https://sourceforge.net/projects/cosp/files/Original Game Files/The Clue! + Profidisk (English)/TheClueProfiData.zip"
 ```
+* German
 ```
 wget "https://sourceforge.net/projects/cosp/files/Original Game Files/The Clue! + Profidisk (German)/DerClouProfiData.zip"
 ```
