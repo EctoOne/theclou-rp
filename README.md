@@ -1,4 +1,4 @@
-# The Clue! Linux Port
+# [The Clue!](http://www.mobygames.com/game/clue) Linux Port
 
 Basic Installation:
 ---
